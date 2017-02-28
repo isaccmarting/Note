@@ -1,0 +1,3 @@
+	reimp imp.lib          # this generates several .o or .obj files.
+	ar rcs libimp.a *.obj  # add them to library
+
