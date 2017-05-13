@@ -1,0 +1,4 @@
+YYSTYPE is defined in a .h file. 
+Then include the .h file in the Lex and Yacc files. 
+And also, the main file. 
+
