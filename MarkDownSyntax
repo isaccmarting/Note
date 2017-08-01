@@ -1,0 +1,5 @@
+1. How to insert a picture ? 
+	![<not loaded>](<url> <"title">)
+
+2. How to center a picture ? 
+	"<center> ... </center>" or "<div align=center> .. </div>"
